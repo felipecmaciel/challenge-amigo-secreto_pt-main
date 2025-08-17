@@ -27,7 +27,7 @@ O projeto permite que o usuário adicione nomes a uma lista e, ao clicar no bot�
 
 ## 🔗 Acesso ao Projeto
 
-Você pode acessar o projeto diretamente [clicando aqui](https://felipecmaciel.github.io/challenge-amigo-secreto_pt-main/) ou clonando o repositório:
+Você pode acessar o projeto diretamente [clicando aqui](https://felipecmaciel.github.io/challenge-amigo-secreto/) ou clonando o repositório:
 
 ```bash
 git clone https://github.com/felipecmaciel/challenge-amigo-secreto_pt-main.git
